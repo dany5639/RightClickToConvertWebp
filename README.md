@@ -1,0 +1,2 @@
+# RightClickToConvertWebp
+RightClickToConvertWebpToJpg

@@ -109,8 +109,6 @@ namespace RightClickToConvertWebp
 
 
                     // bitmap.Save(filepathOut, ImageCodecInfo.GetImageEncoders().First(), new EncoderParameters());
-
-                    Console.ReadKey();
                 }
 
             }
@@ -136,8 +134,6 @@ namespace RightClickToConvertWebp
             // decoderOptions.flip = 1;            //Flip the image
             // using (WebP webp = new WebP())
             //    this.pictureBox.Image = webp.Decode(rawWebP, decoderOptions);
-
-            Console.ReadKey();
 
         }
     }
